@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Михаил Беззапонный](https://up.htmlacademy.ru/htmlcss/22/user/782277).
-* Наставник: `Неизвестно`.
+* Наставник: [Наталья Майстренко](https://up.htmlacademy.ru/profile/natalie).
 
 ---
 
